@@ -1,7 +1,15 @@
-version="1.19"
+version="1.20"
 tags={
 	"1.20 'Crozier'"
 	"Translation"
+	"Português"
+	"Portuguese"
+	"Brazil"
+	"Brazilian Portuguese"
+	"Brazilian"
+	"PT"
+	"PT-BR"
+	"BR"
 }
-name="Reis Cruzados III: Tradução Completa PT-BR + Mods"
+name="Reis Cruzados III: Tradução Completa PT-BR"
 supported_version="1.20.0.3"
