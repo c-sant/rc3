@@ -16,6 +16,8 @@
 
 **Ordens monásticas padrão:** `Abbot/Abbess` → *Abade/Abadessa*; `Archabbot/Archabbess` → *Arquiabade/Arquiabadessa*; `Sage` → *Sábio/Sábia*; `Great Sage` → *Grande Sábio/Grande Sábia*. Manter *Mosteiro* para `Monastery` e *Abadia* para `Abbey`.
 
+**Títulos teocráticos cristãos:** `Bishop/Bishopess` → *Bispo/Bispa*; `Archbishop` → *Arcebispo/Arcebispa* conforme a chave de gênero; `Prince-Bishopric` → *Principado Episcopal*. Para `Cardinal`, usar *Cardeal* em ambas as chaves de gênero até a revisão das frases que o cercam. Preservar sem alteração as chamadas `[CHARACTER.Custom(...)]` que selecionam títulos dinâmicos.
+
 ## Território, títulos e hierarquia
 
 | Chave | Inglês oficial | Espanhol oficial | PT-BR proposto |
