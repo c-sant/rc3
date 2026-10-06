@@ -10,6 +10,8 @@
 
 **Títulos genéricos de clãs e tribos:** `Headman/Headwoman` → *Líder*; `Chieftain/Chieftess` → *Chefe*; `High Chief/High Chieftess` → *Alto Chefe/Alta Chefe*; `Chiefdom` → *Chefatura*. *Chefe* e *líder* são nomes de dois gêneros; os artigos e demais concordâncias dependem da frase. Reservar *cacique* para contextos culturais específicos, pois o termo designa originalmente chefes indígenas das Américas.
 
+**Títulos mercenários padrão:** `Constable` → *Condestável*; `Host` → *Hoste*; `Captain` → *Capitão/Capitã*; `General` → *General*. *Tenente*, *Condestável* e *General* mantêm a mesma forma nas chaves masculina e feminina; as frases ao redor exigem concordância própria.
+
 ## Território, títulos e hierarquia
 
 | Chave | Inglês oficial | Espanhol oficial | PT-BR proposto |
