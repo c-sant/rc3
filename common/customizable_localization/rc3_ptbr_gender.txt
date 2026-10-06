@@ -1,0 +1,74 @@
+﻿# Character-gender forms used by the Brazilian Portuguese localization.
+# Call these only when the grammatical form refers to the scoped character.
+
+RC3_PTBR_OA = {
+	type = character
+	text = {
+		trigger = { is_female = yes }
+		localization_key = RC3_PTBR_OA_female
+	}
+	text = {
+		localization_key = RC3_PTBR_OA_male
+		fallback = yes
+	}
+}
+
+RC3_PTBR_ARTICLE = {
+	type = character
+	text = {
+		trigger = { is_female = yes }
+		localization_key = RC3_PTBR_ARTICLE_female
+	}
+	text = {
+		localization_key = RC3_PTBR_ARTICLE_male
+		fallback = yes
+	}
+}
+
+RC3_PTBR_DE_ARTICLE = {
+	type = character
+	text = {
+		trigger = { is_female = yes }
+		localization_key = RC3_PTBR_DE_ARTICLE_female
+	}
+	text = {
+		localization_key = RC3_PTBR_DE_ARTICLE_male
+		fallback = yes
+	}
+}
+
+RC3_PTBR_A_ARTICLE = {
+	type = character
+	text = {
+		trigger = { is_female = yes }
+		localization_key = RC3_PTBR_A_ARTICLE_female
+	}
+	text = {
+		localization_key = RC3_PTBR_A_ARTICLE_male
+		fallback = yes
+	}
+}
+
+RC3_PTBR_UN_ARTICLE = {
+	type = character
+	text = {
+		trigger = { is_female = yes }
+		localization_key = RC3_PTBR_UN_ARTICLE_female
+	}
+	text = {
+		localization_key = RC3_PTBR_UN_ARTICLE_male
+		fallback = yes
+	}
+}
+
+RC3_PTBR_LIEGE = {
+	type = character
+	text = {
+		trigger = { is_female = yes }
+		localization_key = RC3_PTBR_LIEGE_female
+	}
+	text = {
+		localization_key = RC3_PTBR_LIEGE_male
+		fallback = yes
+	}
+}
