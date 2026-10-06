@@ -36,6 +36,23 @@
  emperor_republic_female:0 "Grã-Princesa"
  empire_republic:0 "Grão-Principado"
 
+ # Títulos teocráticos padrão
+ baron_theocracy_male:0 "Sacerdote"
+ baron_theocracy_female:0 "Sacerdotisa"
+ barony_theocracy:0 "Templo"
+ count_theocracy_male:0 "Sumo Sacerdote"
+ count_theocracy_female:0 "Suma Sacerdotisa"
+ county_theocracy:0 "Grande Templo"
+ duke_theocracy_male:0 "Arcipreste"
+ duke_theocracy_female:0 "Arquissacerdotisa"
+ duchy_theocracy:0 "Teocracia"
+ king_theocracy_male:0 "Grão-Sacerdote"
+ king_theocracy_female:0 "Grã-Sacerdotisa"
+ kingdom_theocracy:0 "Grande Teocracia"
+ emperor_theocracy_male:0 "Imperador Divino"
+ emperor_theocracy_female:0 "Imperatriz Divina"
+ empire_theocracy:0 "Sacro Império"
+
  # Títulos tribais de grau real e imperial
  king_tribal_male:0 "Rei"
  king_tribal_female:0 "Rainha"
