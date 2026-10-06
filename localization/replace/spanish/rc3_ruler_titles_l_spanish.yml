@@ -1,0 +1,6 @@
+﻿l_spanish:
+ # Títulos padrão de governantes feudais e tribais
+ king_feudal_male:0 "Rei"
+ king_feudal_female:0 "Rainha"
+ king_tribal_male:0 "Rei"
+ king_tribal_female:0 "Rainha"
