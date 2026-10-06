@@ -1,6 +1,28 @@
 ﻿l_spanish:
- # Títulos padrão de governantes feudais e tribais
+ # Títulos feudais padrão
+ baron_feudal_male:0 "Barão"
+ baron_feudal_female:0 "Baronesa"
+ barony_feudal:0 "Baronia"
+ count_feudal_male:0 "Conde"
+ count_feudal_female:0 "Condessa"
+ county_feudal:0 "Condado"
+ duke_feudal_male:0 "Duque"
+ duke_feudal_female:0 "Duquesa"
+ duchy_feudal:0 "Ducado"
+ duke_feudal_independent:0 "Pequeno rei"
+ duke_feudal_independent_female:0 "Pequena rainha"
+ duchy_feudal_independent:0 "Pequeno reino"
  king_feudal_male:0 "Rei"
  king_feudal_female:0 "Rainha"
+ kingdom_feudal:0 "Reino"
+ emperor_feudal_male:0 "Imperador"
+ emperor_feudal_female:0 "Imperatriz"
+ empire_feudal:0 "Império"
+
+ # Títulos tribais de grau real e imperial
  king_tribal_male:0 "Rei"
  king_tribal_female:0 "Rainha"
+ kingdom_tribal:0 "Reino"
+ emperor_tribal_male:0 "Alto rei"
+ emperor_tribal_female:0 "Alta rainha"
+ empire_tribal:0 "Alto reino"
