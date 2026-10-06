@@ -8,6 +8,8 @@
 
 **Capitalização de títulos:** em termos curtos e emblemáticos, usar iniciais maiúsculas nas palavras principais, preservando artigos, preposições e conectivos em minúsculas; por exemplo, *Pequeno Rei* e *Alto Príncipe*.
 
+**Títulos genéricos de clãs e tribos:** `Headman/Headwoman` → *Líder*; `Chieftain/Chieftess` → *Chefe*; `High Chief/High Chieftess` → *Alto Chefe/Alta Chefe*; `Chiefdom` → *Chefatura*. *Chefe* e *líder* são nomes de dois gêneros; os artigos e demais concordâncias dependem da frase. Reservar *cacique* para contextos culturais específicos, pois o termo designa originalmente chefes indígenas das Américas.
+
 ## Território, títulos e hierarquia
 
 | Chave | Inglês oficial | Espanhol oficial | PT-BR proposto |
