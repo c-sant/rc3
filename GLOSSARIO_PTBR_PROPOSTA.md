@@ -14,6 +14,8 @@
 
 **Ordens militares padrão:** `Master/Mistress` → *Mestre/Mestra*; `Grandmaster/Grandmistress` → *Grão-Mestre/Grã-Mestra*; `Abbot General/Abbess General` → *Abade Geral/Abadessa Geral*. Os termos culturais próprios das ordens terão revisão separada.
 
+**Ordens monásticas padrão:** `Abbot/Abbess` → *Abade/Abadessa*; `Archabbot/Archabbess` → *Arquiabade/Arquiabadessa*; `Sage` → *Sábio/Sábia*; `Great Sage` → *Grande Sábio/Grande Sábia*. Manter *Mosteiro* para `Monastery` e *Abadia* para `Abbey`.
+
 ## Território, títulos e hierarquia
 
 | Chave | Inglês oficial | Espanhol oficial | PT-BR proposto |
