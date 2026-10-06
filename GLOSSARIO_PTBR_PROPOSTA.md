@@ -6,6 +6,8 @@
 
 **Critério de tamanho:** preferir rótulos próximos do espanhol em comprimento e número de palavras. Evitar abreviações pouco claras. Comprimento em caracteres é só uma triagem: fontes, acentos e contexto também afetam o encaixe. As propostas mais longas estão assinaladas nas decisões pendentes.
 
+**Capitalização de títulos:** em termos curtos e emblemáticos, usar iniciais maiúsculas nas palavras principais, preservando artigos, preposições e conectivos em minúsculas; por exemplo, *Pequeno Rei* e *Alto Príncipe*.
+
 ## Território, títulos e hierarquia
 
 | Chave | Inglês oficial | Espanhol oficial | PT-BR proposto |
